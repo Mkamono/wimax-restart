@@ -1,0 +1,10 @@
+#vscode
+.devcontainer
+.vscode
+
+#data
+.env
+__pycache__
+images
+data.sqlite3
+viewdata.ipynb
